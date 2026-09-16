@@ -8,7 +8,8 @@ var configuration = new ConfigurationBuilder()
     .AddUserSecrets<Program>()
     .Build();
 
-var apiKey = configuration["Gemini:ApiKey"];
+var apiKey = configuration["Gemini:ApiKey"]
+    ?? throw new InvalidOperationException("Gemini API key not found.");
 
 // STEP 2 — Create Gemini client
 var client = new Client(apiKey: apiKey);

@@ -1,7 +1,10 @@
 <Solution>
-  <Folder Name="/section5_llms/">
+  <Folder Name="/llms/">
     <Project Path="FunctionCall/FunctionCall.csproj" />
     <Project Path="TextCompletion/TextCompletion.csproj" />
     <Project Path="TextCompletion_Ollama/TextCompletion_Ollama.csproj" />
+  </Folder>
+  <Folder Name="/vectors/">
+    <Project Path="Embeddings/Embeddings.csproj" Id="a035122c-91e2-48c1-8466-9239b131af9e" />
   </Folder>
 </Solution>
