@@ -6,5 +6,7 @@
   </Folder>
   <Folder Name="/vectors/">
     <Project Path="Embeddings/Embeddings.csproj" Id="a035122c-91e2-48c1-8466-9239b131af9e" />
+    <Project Path="VectorSearch/VectorSearch.csproj" Id="f94a14eb-8478-4bd2-a97b-c0cd2ea8307c" />
+    <Project Path="VectorSearch_Ollama/VectorSearch_Ollama.csproj" Id="edab9ebc-26bb-4714-acd3-2e5d4597f790" />
   </Folder>
 </Solution>
