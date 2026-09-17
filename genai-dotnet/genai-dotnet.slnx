@@ -9,4 +9,9 @@
     <Project Path="VectorSearch/VectorSearch.csproj" Id="f94a14eb-8478-4bd2-a97b-c0cd2ea8307c" />
     <Project Path="VectorSearch_Ollama/VectorSearch_Ollama.csproj" Id="edab9ebc-26bb-4714-acd3-2e5d4597f790" />
   </Folder>
+  <Folder Name="/vision/">
+    <Project Path="ImageAnalysis/ImageAnalysis.csproj" Id="755b3fef-b463-4a58-9b42-bb4fb9b2893c" />
+    <Project Path="ImageAnalysis_Ollama/ImageAnalysis_Ollama.csproj" Id="b880c810-38ec-44eb-9883-e74ea84306e5" />
+    <Project Path="TrafficCamAnalysis/TrafficCamAnalysis.csproj" Id="93c412bb-bdd7-4b8a-9678-feca8a23b291" />
+  </Folder>
 </Solution>
