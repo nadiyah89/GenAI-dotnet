@@ -7,6 +7,9 @@
   <Folder Name="/RAG/">
     <Project Path="ChatApp_RAG/ChatApp_RAG.csproj" />
     <Project Path="ChatApp_RAG_Ollama/ChatApp_RAG_Ollama.csproj" />
+    <Project Path="ChatApp_RAG_Qdrant/ChatApp_RAG_Qdrant.AppHost/ChatApp_RAG_Qdrant.AppHost.csproj" />
+    <Project Path="ChatApp_RAG_Qdrant/ChatApp_RAG_Qdrant.ServiceDefaults/ChatApp_RAG_Qdrant.ServiceDefaults.csproj" />
+    <Project Path="ChatApp_RAG_Qdrant/ChatApp_RAG_Qdrant.Web/ChatApp_RAG_Qdrant.Web.csproj" />
   </Folder>
   <Folder Name="/vectors/">
     <Project Path="Embeddings/Embeddings.csproj" Id="a035122c-91e2-48c1-8466-9239b131af9e" />
