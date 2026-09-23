@@ -267,7 +267,7 @@ As the final project of the course, I extended a **.NET Aspire-based distributed
 
 ### Project Repository
 
- [**AI-Powered Semantic Product Search & Chatbot**](YOUR_GITHUB_REPO_URL)
+https://github.com/nadiyah89/AI_ECommerce_Microservices_Platform.git
 
 
 # Course Outcome
